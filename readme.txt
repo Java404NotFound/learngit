@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git tracks changes of files.
 Git tracks changes of files2.
 Git tracks changes of files3.
+Git tracks changes of files4.
